@@ -1,0 +1,180 @@
+.logo{
+    height: 90px;
+    padding: 15px 0px 0px 15px;
+}
+.main{
+    background: brown;
+    clip-path: polygon(0 0, 100% 0, 100% 89%, 91% 100%, 25% 100%, 0 100%);
+    padding: 110px 0px 0px 80px;
+    display: flex;
+    justify-content: space-between;
+    height: 300%;
+
+   
+
+}
+.header-main{
+    padding: 70px 0px 0px 40px;
+    
+}
+.heading{
+    color: white;
+    font-size:55px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.tick-1{
+    margin-left: 110px;
+    
+    
+}
+.tick-2{
+    margin-left: 83px;
+}
+.content{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    margin-top: -20px;
+}
+.content-2{
+    font-family:  sans-serif;
+    font-weight: 900;
+    font-size: x-large;
+}
+.main2div{
+padding: 0px 180px 0px 0px;
+margin-top: -35px;
+
+}
+.name{
+    height: 35px;
+    width: 355px;
+    background: brown;
+    border: 2px solid white;
+    color: aliceblue;
+    
+}
+.username{
+    height: 35px;
+    width: 355px;
+    background: brown;
+    border: 2px solid white;
+    margin-top: 5px;
+margin-top: 5px;
+}
+.organization{
+    margin-top: 5px;
+    height: 35px;
+    width: 355px;
+    background: brown; 
+    border: 2px solid white;
+    
+}
+.checkbox{
+    font-size: xx-small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    display: flex;
+    gap: 150px;
+    
+}
+.award{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-size: x-large;
+}
+.tick{
+   font-size: x-small;
+   color: white;
+}
+.description{
+    height: 45px;
+    width: 350px;
+    margin-top: 15px;
+    background: brown;
+    border: 2px solid white;
+}
+.checkbox-2{
+    font-size: xx-small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    display: flex;
+    gap: 135px;
+    margin-top: 15px;
+}
+.description-2{
+    height: 45px;
+    width: 350px;
+    margin-top: 15px;
+    background: brown;
+    border: 2px solid white;
+}
+.checkbox-3{
+    font-size: xx-small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    display: flex;
+    gap: 123px;
+    margin-top: 15px;
+}
+.description-3{
+    height: 45px;
+    width: 350px;
+    margin-top: 15px;
+    background: brown;
+    border: 2px solid white;
+}
+.checkbox-4{
+    font-size: xx-small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    display: flex;
+    gap: 124px;
+    margin-top: 15px;
+}
+.description-4{
+    height: 45px;
+    width: 350px;
+    margin-top: 15px;
+    background: brown;
+    border: 2px solid white;
+}
+.checkbox-5{
+    font-size: xx-small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    display: flex;
+    gap: 130px;
+    margin-top: 15px;
+}
+.description-5{
+    height: 45px;
+    width: 350px;
+    margin-top: 15px;
+    background: brown;
+    border: 2px solid white;
+}
+.button{
+    font-family:Tahoma, sans-serif;
+    height: 40px;
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    text-decoration: none;
+    font-size: 17px;
+    
+    
+}
+.po{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+::placeholder{
+    color: white;
+}

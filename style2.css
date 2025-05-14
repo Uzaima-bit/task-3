@@ -1,0 +1,118 @@
+.div-1{
+    background: brown;
+    padding-bottom: 60px;
+    clip-path: polygon(0 0, 100% 0, 100% 84%, 92% 100%, 25% 100%, 0 100%);
+}
+.logo{
+    height: 110px;
+    padding: 20px 0px 0px 380px;
+}
+.h1{
+   padding: 0px 0px 0px 380px;
+   font-size: 48px;
+   font-family: Verdana, Tahoma, sans-serif;
+   font-weight: bolder;
+   color: white;
+   margin-top: 7px;
+
+}
+.h2{
+   padding: 0px 0px 0px 380px;
+   font-size: 23px;
+   font-family:  Tahoma, sans-serif;
+   font-weight: bolder;
+   margin-top: -30px;
+}
+p{
+    padding: 0px 0px 0px 380px;
+    font-size: 15px;
+    font-family:  sans-serif;
+    color: white;
+    padding-bottom: 0px;
+}
+.div-2{
+    display: flex;
+   padding: 20px 0px 0px 380px;
+    
+
+}
+.img-1{
+    height: 23px;
+    padding: 22px 10px 0px 0px;
+}
+.h-3{
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+.images{
+    display: flex;
+    /* justify-content: center; */
+    gap: 55px;
+    height: 60px;
+    margin-left: 392px;
+    margin-top: 10px;
+}
+.span-1{
+        display: flex;
+    gap: 40px;
+    /* height: 70px; */
+    margin-left: 375px;
+    font-size: 12px;
+    margin-top: 9px;
+    font-weight: 600;
+    color:  rgb(175, 45, 89);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text-2{
+    margin-left: -10px;
+}
+.text-3{
+    margin-left: -11px;
+}
+.text-4{
+    margin-left: -11px;
+}
+.text-5{
+    margin-left: -15px;
+}
+.span-2{
+    display: flex;
+    gap: 100px;
+    /* height: 0px; */
+    margin-left: 390px;
+    font-size: 11px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.text-01{
+    margin-left: 11px;
+}
+.text-02{
+    margin-left: -21px;
+}
+.text-03{
+    margin-left: -23px;
+}
+.text-04{
+    margin-left: -22px;
+}
+.text-05{
+    margin-left: -26px;
+    padding-bottom: 40px;
+}
+.h-03{
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+.footer{
+    background: brown;
+    padding: 80px 0px 50px 375px;
+    color: white;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    clip-path: polygon(0 0, 100% 0, 100% 65%, 90% 100%, 25% 100%, 0 100%);
+
+}
