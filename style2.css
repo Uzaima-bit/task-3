@@ -1,83 +1,97 @@
-.div-1{
+.div-1 {
     background: brown;
     padding-bottom: 60px;
     clip-path: polygon(0 0, 100% 0, 100% 84%, 92% 100%, 25% 100%, 0 100%);
 }
-.logo{
+
+.logo {
     height: 190px;
     padding: 50px 0px 0px 105px;
 }
-.h1{
-   padding: 0px 0px 0px 105px;
-   font-size: 100px;
-   font-family:  Tahoma, sans-serif;
-   font-weight: bolder;
-   color: white;
-   margin-top: 7px;
+
+.h1 {
+    padding: 0px 0px 0px 105px;
+    font-size: 100px;
+    font-family: Tahoma, sans-serif;
+    font-weight: bolder;
+    color: white;
+    margin-top: 7px;
 
 }
-.h2{
-   padding: 0px 0px 0px 105px;
-   font-size: 46px;
-   font-family:  Tahoma, sans-serif;
-   font-weight: bolder;
-   margin-top: -70px;
+
+.h2 {
+    padding: 0px 0px 0px 105px;
+    font-size: 46px;
+    font-family: Tahoma, sans-serif;
+    font-weight: bolder;
+    margin-top: -70px;
 }
-p{
+
+p {
     padding: 10px 0px 0px 107px;
     font-size: 28px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
     padding-bottom: 0px;
 }
-.div-2{
+
+.div-2 {
     display: flex;
-   padding: 20px 0px 0px 105px;
-    
+    padding: 20px 0px 0px 105px;
+
 
 }
-.img-1{
+
+.img-1 {
     height: 28px;
     padding: 39px 10px 0px 0px;
     font-weight: 900;
 }
-.h-3{
+
+.h-3 {
     font-size: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 900;
 }
-.images{
+
+.images {
     display: flex;
     /* justify-content: center; */
-    gap: 105px;
+    gap: 108px;
     height: 115px;
     margin-left: 105px;
     margin-top: 10px;
 }
-.span-1{
-        display: flex;
+
+.span-1 {
+    display: flex;
     gap: 149px;
     /* height: 70px; */
     margin-left: 115px;
     font-size: 12px;
     margin-top: 9px;
     font-weight: 600;
-    color:  rgb(175, 45, 89);
+    color: rgb(175, 45, 89);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.text-2{
+
+.text-2 {
     margin-left: -10px;
 }
-.text-3{
+
+.text-3 {
     margin-left: -11px;
 }
-.text-4{
+
+.text-4 {
     margin-left: -11px;
 }
-.text-5{
+
+.text-5 {
     margin-left: -15px;
 }
-.span-2{
+
+.span-2 {
     display: flex;
     gap: 210px;
     /* height: 0px; */
@@ -85,30 +99,36 @@ p{
     font-size: 11px;
     font-weight: 600;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
+
 }
-.text-01{
+
+.text-01 {
     margin-left: 35px;
 }
-.text-02{
+
+.text-02 {
     margin-left: -22px;
 }
-.text-03{
+
+.text-03 {
     margin-left: -24px;
 }
-.text-04{
+
+.text-04 {
     margin-left: -24px;
 }
-.text-05{
+
+.text-05 {
     margin-left: -29px;
     padding-bottom: 50px;
 }
-.footer{
+
+.footer {
     background: brown;
     padding: 30px 0px 50px 105px;
     color: white;
     font-size: 38px;
-    font-family:  Tahoma, sans-serif;
+    font-family: Tahoma, sans-serif;
     clip-path: polygon(0 0, 100% 0, 100% 65%, 90% 100%, 25% 100%, 0 100%);
 
 }

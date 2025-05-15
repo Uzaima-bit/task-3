@@ -1,8 +1,9 @@
-.logo{
+.logo {
     height: 115px;
     padding: 25px 0px 0px 25px;
 }
-.main{
+
+.main {
     background: brown;
     clip-path: polygon(0 0, 100% 0, 100% 89%, 91% 100%, 25% 100%, 0 100%);
     padding: 110px 0px 0px 80px;
@@ -11,22 +12,25 @@
     height: 300%;
     margin-left: 20px;
 }
-.header-main{
+
+.header-main {
     padding: 70px 0px 0px 40px;
-    
+
 }
-.heading{
+
+.heading {
     color: white;
-    font-size:72px;
+    font-size: 72px;
     font-weight: bolder;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
-.tick-1{
+
+.tick-1 {
     margin-left: 450px;
-   opacity: 0.7;
-   accent-color: white;
-   height: 15px;
+    opacity: 0.7;
+    accent-color: white;
+    height: 15px;
     width: 15px;
     display: flex;
     justify-content: center;
@@ -36,9 +40,10 @@
     cursor: pointer;
     background-color: white;
     border: white;
-    
+
 }
-.tick-2{
+
+.tick-2 {
     margin-left: 83px;
     opacity: 0.7;
     accent-color: white;
@@ -53,77 +58,88 @@
     font-size: 18px;
     cursor: pointer;
 }
-.content{
+
+.content {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
     margin-top: -20px;
 }
-.content-2{
-    font-family:  sans-serif;
+
+.content-2 {
+    font-family: sans-serif;
     font-weight: 900;
     font-size: x-large;
 }
-.main2div{
-padding: 0px 180px 0px 0px;
-margin-top: -35px;
+
+.main2div {
+    padding: 0px 180px 0px 0px;
+    margin-top: -35px;
 
 }
-.name{
+
+.name {
     height: 45px;
     width: 380px;
     background: brown;
     border: 2px solid white;
     color: aliceblue;
-    
+
 }
-.username{
+
+.username {
     height: 40px;
     width: 380px;
     background: brown;
     border: 2px solid white;
-    margin-top: 7px;
+    margin-top: 11px;
 
 }
-.organization{
-    margin-top: 7px;
+
+.organization {
+    margin-top: 11px;
     height: 40px;
     width: 380px;
-    background: brown; 
+    background: brown;
     border: 2px solid white;
-    
+
 }
-.checkbox{
-    font-size: xx-small;
+
+.checkbox {
+    font-size: 11px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
     display: flex;
     gap: 150px;
     opacity: 0.8;
     accent-color: white;
-    
-    
+
+
 }
-.award{
+
+.award {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 600;
     font-size: x-large;
-    
+
 }
-.tick{
-   font-size: 11px;
-   color: white;
-   margin-top: -10px;
-   
+
+.tick {
+    font-size: 11px;
+    color: white;
+    margin-top: -10px;
+
 }
-.description{
+
+.description {
     height: 55px;
     width: 380px;
     margin-top: 15px;
     background: brown;
     border: 2px solid white;
 }
-.checkbox-2{
-    font-size: xx-small;
+
+.checkbox-2 {
+    font-size: 11px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
     display: flex;
@@ -132,16 +148,19 @@ margin-top: -35px;
     opacity: 0.8;
     accent-color: white;
 }
-.description-2{
+
+.description-2 {
     height: 55px;
     width: 380px;
     margin-top: 15px;
     background: brown;
     border: 2px solid white;
-    
+
+
 }
-.checkbox-3{
-    font-size: xx-small;
+
+.checkbox-3 {
+    font-size: 11px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
     display: flex;
@@ -150,15 +169,17 @@ margin-top: -35px;
     opacity: 0.8;
     accent-color: white;
 }
-.description-3{
+
+.description-3 {
     height: 55px;
     width: 380px;
     margin-top: 15px;
     background: brown;
     border: 2px solid white;
 }
-.checkbox-4{
-    font-size: xx-small;
+
+.checkbox-4 {
+    font-size: 11px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
     display: flex;
@@ -167,15 +188,17 @@ margin-top: -35px;
     opacity: 0.8;
     accent-color: white;
 }
-.description-4{
+
+.description-4 {
     height: 55px;
     width: 380px;
     margin-top: 15px;
     background: brown;
     border: 2px solid white;
 }
-.checkbox-5{
-    font-size: xx-small;
+
+.checkbox-5 {
+    font-size: 11px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
     display: flex;
@@ -183,47 +206,101 @@ margin-top: -35px;
     opacity: 0.8;
     margin-top: 15px;
     accent-color: white;
-    
+
 }
-.description-5{
+
+.description-5 {
     height: 55px;
     width: 380px;
     margin-top: 15px;
     background: brown;
     border: 2px solid white;
 }
-.button{
-    font-family:Tahoma, sans-serif;
+
+.button {
+    font-family: Tahoma, sans-serif;
     height: 40px;
     width: 300px;
     margin-top: 20px;
     margin-bottom: 60px;
     text-decoration: none;
     font-size: 19px;
-    
+
 }
-.po{
+
+.po {
     text-decoration: none;
     color: black;
     font-size: 20px;
 }
-.link{
+
+.link {
     text-decoration: none;
     color: black;
 }
-::placeholder{
+
+::placeholder {
     color: white;
 }
-.but{
+
+.but {
     height: 15px;
-    margin-top: 4px;
+    margin-top: 2px;
     width: 15px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 15px;
     background: white;
-    border: white ,2px;
+    border: white, 2px;
     cursor: pointer;
     font-weight: 600;
+
+}
+
+.but-1 {
+
+    height: 15px;
+    margin-top: 2px;
+    width: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    background: white;
+    border: white, 2px;
+    cursor: pointer;
+    font-weight: 600;
+    margin-left: 8px;
+
+}
+
+.but-2 {
+    height: 15px;
+    margin-top: 2px;
+    width: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    background: white;
+    border: white, 2px;
+    cursor: pointer;
+    font-weight: 600;
+    margin-left: 3px;
+}
+
+.but-3 {
+    height: 15px;
+    margin-top: 2px;
+    width: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    background: white;
+    border: white, 2px;
+    cursor: pointer;
+    font-weight: 600;
+    margin-left: -1px
 }
